@@ -1,12 +1,12 @@
 What I did today(1-sep-26)
 15 min - Revised Introduction
-30 mins Learn Ip Address, DNS
-2 hours - Revised interview questions of AWS, Linux and AI
+45 mins- Revised morning Linux class
+2 hours - Revised interview questions of S3 bucket, Docker
 1 hour - Read Articals on K8s from Medium website and stackoverflow
-1 hr - coding
+1.5 hr - coding
 
 Tomorrow's Task (2-sep-26)
-Linux, AWS, AI, K8S
+ AWS, AI, K8S
 1 hour coding
 1 hour English reading
 1 hour Quesion Paper
