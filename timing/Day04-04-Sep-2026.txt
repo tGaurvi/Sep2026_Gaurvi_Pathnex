@@ -1,12 +1,12 @@
-What I did today(3-sep-26)
+What I did today(4-sep-26)
 15 min - Revised Introduction
-45 mins- Revised morning Linux class 2
-2 hours - Revised interview questions of EC2, IAM
+1 hr - Revised morning Linux class 3
+2 hours - Revised interview questions of Docker,Terraform
 1 hour - Read Articals on K8s from Medium website and stackoverflow
 1.5 hr - coding
 
-Tomorrow's Task (3-sep-26)
- AWS, AI, K8S
+Tomorrow's Task (4-sep-26)
+ AWS, AI, Github
 1 hour coding
 1 hour English reading
 1 hour Quesion Paper
