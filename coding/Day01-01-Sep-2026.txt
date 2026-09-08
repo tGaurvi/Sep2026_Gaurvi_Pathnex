@@ -1,0 +1,14 @@
+# Installing Nginx Server Using Ansible
+- name: Installing Nginx on Pathnex Server
+  hosts: all
+  become: yes
+
+  tasks:
+    - name: Install Nginx
+      apt:
+        name: nginx
+        state: present
+
+# Dockerfile 
+FROM ubuntu:22.04
+CMD ["echo", "Hello Pathnex"]
